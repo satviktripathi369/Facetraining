@@ -1,21 +1,5 @@
 # FaceDetect: Face detection & recognition framework
-+ By: Dory Azar
-+ Video Demo: [Recorded Examples](https://www.youtube.com/watch?v=vytJRSOeZ8k&feature=youtu.be)
-+ Live Demo: [FaceDetect Examples](http://facedetect.caligrafy.com)
 
-![](https://github.com/DoryAzar/e28/blob/master/independent-study/resources/facedetect1.png)
-
-<br />
-
-## Content
-
-+ [What is it?](https://github.com/DoryAzar/facedetect#what-is-it)
-+ [Credits & Resources](https://github.com/DoryAzar/facedetect#credits--resources)
-+ [Let's get started](https://github.com/DoryAzar/facedetect#lets-get-started)
-+ [Let's get through the basics](https://github.com/DoryAzar/facedetect#lets-get-through-the-basics)
-+ [Let's have some fun](https://github.com/DoryAzar/facedetect#lets-have-some-fun)
-+ [Final Thoughts](https://github.com/DoryAzar/facedetect#final-thoughts)
-+ [Known Issues](https://github.com/DoryAzar/facedetect#known-issues)
 
 <br />
 
@@ -55,10 +39,10 @@ Artificial Intelligence (AI) and Machine Learning in particular don't have to be
 
 ### Installation
 
-The FaceDetect package can be downloaded from the [FaceDetect Github](https://github.com/DoryAzar/facedetect) repository by either downloading the ZIP folder or by running the following command from the terminal:
+The FaceDetect package can be downloaded from the [Facetraining Github](https://github.com/satviktripathi369/Facetraining/) repository by either downloading the ZIP folder or by running the following command from the terminal:
 
 ```bash
-git clone git@github.com:DoryAzar/facedetect.git
+git clone https://github.com/satviktripathi369/Facetraining.git
 
 ```
 <br />
@@ -720,16 +704,3 @@ facedetector.clearDisplay() // clears the infobar display
 
 <br />
 
-## Known Issues
-
-+ FaceDetect works on Chrome, Safari and FireFox from the local machine
-
-+ In production, some browsers (Safari) require a secure SSL connection (https) for webcam streaming
-
-+ "Puppeteer" (the line drawing feature) is not compatible with Safari
-
-
-## Sponsorship
-
-With your sponsorship, we can continue to bring more features and to share the knowledge with the open source community.
-[Github Sponsorship](https://github.com/sponsors/DoryAzar)
